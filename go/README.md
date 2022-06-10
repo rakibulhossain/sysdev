@@ -2,6 +2,8 @@
 
 ## Install Go
 
+This is a yolo production.
+
 If you are upgrading from an older version of Go you must first remove the existing version.
 To remove an existing Go installation from your system delete the go directory.
 
